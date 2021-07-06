@@ -26,13 +26,11 @@ Jika tidak ada, maka server akan menghubungi root name server untuk mengetahui I
 **NS Record**, merupakan server yang memiliki database domain name dan IP Address yang berfungsi untuk menyimpan nama domain dan record DNS dari domain tsb.
 
 ## Cara Mengecek NS record sebuah domain
-
 1. Masuk ke situs who.is
 2. Ketikkan domain lalu enter
 3. Disitu akan ada informasi tentang domain tsb.
 
 ## Langkah-langkah konfigurasi DNS
-
 {% highlight javascript linenos %}
 Siapkan 1 buah server, 1 buah switch, dan  buah komputer
 {% endhighlight %}
