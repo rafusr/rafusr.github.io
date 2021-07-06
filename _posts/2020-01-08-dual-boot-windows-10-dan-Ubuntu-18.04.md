@@ -60,7 +60,7 @@ Untuk partisi root berikan sisa dari partisi kosong yang telah dibagi tadi
 Lalu klik install now
 {% endhighlight %}
 
-![dual-boot-6](/assets/img/dual-boot-windows-10-dan-Ubuntu-18.04/dual-boot-6.png)
+![dual-boot-6](/assets/img/dual-boot-windows-10-dan-Ubuntu-18.04/dual-boot-6.jpg)
 
 {% highlight javascript linenos %}
 Selanjutnya pilih zona waktu Jakarta (jika anda berada di zona waktu Jakarta)
