@@ -6,6 +6,7 @@ cover-img:
 thumbnail-img: /assets/img/konfigurasi-dns-cisco-packet-tracer/cisco.png
 share-img: /assets/img/konfigurasi-dns-cisco-packet-tracer/cisco.png
 tags: [dns, cisco]
+comments: true
 ---
 
 ## Mengenal Apa Itu DNS
