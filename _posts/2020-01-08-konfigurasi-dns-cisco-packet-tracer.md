@@ -20,10 +20,10 @@ DNS lokal akan mengecek di dalam cache server DNS server lokal, jika data itu ad
 Jika tidak ada, maka server akan menghubungi root name server untuk mengetahui IP Address sebuah domain.
 
 ## Tipe DNS Record
-**A Record**, bertugas untuk mengarahkan domain / subdomain ke alamat ip domain tsb.
-**CNAME**, bertugas untuk mengarahkan subdomain kepada domain.
-**SOA (Start Of Authorit)**, merupakan server DNS yang menyediakan informasi tentang sebuah domain.
-**NS Record**, merupakan server yang memiliki database domain name dan IP Address yang berfungsi untuk menyimpan nama domain dan record DNS dari domain tsb.
+- **A Record**, bertugas untuk mengarahkan domain / subdomain ke alamat ip domain tsb.
+- **CNAME**, bertugas untuk mengarahkan subdomain kepada domain.
+- **SOA (Start Of Authorit)**, merupakan server DNS yang menyediakan informasi tentang sebuah domain.
+- **NS Record**, merupakan server yang memiliki database domain name dan IP Address yang berfungsi untuk menyimpan nama domain dan record DNS dari domain tsb.
 
 ## Cara Mengecek NS record sebuah domain
 1. Masuk ke situs who.is
