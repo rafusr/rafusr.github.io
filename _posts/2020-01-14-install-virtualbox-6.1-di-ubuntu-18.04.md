@@ -14,13 +14,13 @@ Oracle VM VirtualBox (sebelumnya Sun VirtualBox, Sun xVM VirtualBox dan Innotek 
 ## Download dan Install
 
 {: .box-note}
-Masuk ke situs download [virtualbox](https://www.virtualbox.org/wiki/Downloads)  
-Klik **linux distribution** lalu pilih ubuntu 18.04
+Masuk ke situs download [virtualbox](https://www.virtualbox.org/wiki/Downloads).  
+Klik **linux distribution** lalu pilih ubuntu 18.04.
 
 ![install-virtualbox-1](/assets/img/install-virtualbox-6.1-di-ubuntu-18.04/install-virtualbox-1.png)
 
 {: .box-note}
-Tunggu hingga download selesai lalu install
+Tunggu hingga download selesai lalu install.
 
 ![install-virtualbox-2](/assets/img/install-virtualbox-6.1-di-ubuntu-18.04/install-virtualbox-2.png)
 
