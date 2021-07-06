@@ -17,9 +17,9 @@ Web Server memiliki peran dalam memproses berbagai data yang diminta oleh klien 
 
 ### Beberapa bagian fungsi dari web server:
 
-- Membersihkan berbagai cache yang terdapat pada penyimpanan serta semua dokumen yang tidak terpakai lagi.
-- Melakukan pemeriksaan terhadap sistem security yang berasal dari permintaan HTTP berdasarkan request klien atau web browser.
-- Menyediakan data berdasarkan request atau permintaan yang masuk agar dapat menjamin keamanan sistem yang berjalan dengan lancar.
+- Membersihkan berbagai cache yang terdapat pada penyimpanan serta semua dokumen yang tidak terpakai lagi
+- Melakukan pemeriksaan terhadap sistem security yang berasal dari permintaan HTTP berdasarkan request klien atau web browser
+- Menyediakan data berdasarkan request atau permintaan yang masuk agar dapat menjamin keamanan sistem yang berjalan dengan lancar
 
 ## Jenis-jenis Web Server
 
@@ -41,8 +41,8 @@ Setting IP Address dan DNS pada server.
 ![cisco-web-2](/assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco-web-2.png)
 
 {: .box-note}
-Tambahkan DNS pada server dengan klik **Service** > **DNS** > **DNS Service : On**  
-Isi **Name** : (diisi dengan domain) dan **Address** : (diisi dengan IP DNS pada server)  
+Tambahkan DNS pada server dengan klik **Service** > **DNS** > **DNS Service : On**.  
+Isi **Name** : (diisi dengan domain) dan **Address** : (diisi dengan IP DNS pada server).  
 Lalu klik **Add**.
 
 ![cisco-web-3](/assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco-web-3.png)
