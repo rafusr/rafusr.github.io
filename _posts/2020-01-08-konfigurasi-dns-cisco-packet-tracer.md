@@ -2,7 +2,7 @@
 layout: post
 title: Konfigurasi DNS - Cisco Packet Tracer
 subtitle: 
-cover-img: /assets/img/konfigurasi-dns-cisco-packet-tracer/cover-dns-cisco.jpg
+cover-img: 
 thumbnail-img: /assets/img/konfigurasi-dns-cisco-packet-tracer/cisco.png
 share-img: /assets/img/konfigurasi-dns-cisco-packet-tracer/cisco.png
 tags: [dns, cisco]
@@ -32,9 +32,36 @@ Jika tidak ada, maka server akan menghubungi root name server untuk mengetahui I
 
 ## Langkah-langkah konfigurasi DNS
 
-
 ~~~
 Siapkan 1 buah server, 1 buah switch, dan  buah komputer
 ~~~
 
 ![cisco-dns-1](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-1.png)
+
+~~~
+Konfigurasi IP Address server dan pc seperti ini seperti ini
+~~~
+
+![cisco-dns-2](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-2.png)
+
+![cisco-dns-3](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-3.png)
+
+![cisco-dns-4](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-4.png)
+
+![cisco-dns-5](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-5.png)
+
+~~~
+Berikan DNS untuk server dan masing-masing PC
+~~~
+
+![cisco-dns-6](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-6.png)
+
+~~~
+Tes dengan ping semua domain pada masing-masing PC
+~~~
+
+![cisco-dns-7](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-7.png)
+
+![cisco-dns-8](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-8.png)
+
+![cisco-dns-9](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-9.png)
