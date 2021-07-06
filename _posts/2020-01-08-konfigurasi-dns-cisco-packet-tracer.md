@@ -20,10 +20,10 @@ Jika tidak ada, maka server akan menghubungi root name server untuk mengetahui I
 
 ## Tipe DNS Record
 
-- **A Record**, bertugas untuk mengarahkan domain / subdomain ke alamat ip domain tsb.
-- **CNAME**, bertugas untuk mengarahkan subdomain kepada domain.
-- **SOA (Start Of Authorit)**, merupakan server DNS yang menyediakan informasi tentang sebuah domain.
-- **NS Record**, merupakan server yang memiliki database domain name dan IP Address yang berfungsi untuk menyimpan nama domain dan record DNS dari domain tsb.
+- **A Record**, bertugas untuk mengarahkan domain / subdomain ke alamat ip domain tsb
+- **CNAME**, bertugas untuk mengarahkan subdomain kepada domain
+- **SOA (Start Of Authorit)**, merupakan server DNS yang menyediakan informasi tentang sebuah domain
+- **NS Record**, merupakan server yang memiliki database domain name dan IP Address yang berfungsi untuk menyimpan nama domain dan record DNS dari domain tsb
 
 ## Cara Mengecek NS record sebuah domain
 
@@ -34,12 +34,12 @@ Jika tidak ada, maka server akan menghubungi root name server untuk mengetahui I
 ## Konfigurasi DNS
 
 {: .box-note}
-Siapkan 1 buah server, 1 buah switch, dan  buah komputer
+Siapkan 1 buah server, 1 buah switch, dan  buah komputer.
 
 ![cisco-dns-1](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-1.png)
 
 {: .box-note}
-Konfigurasi IP Address server dan pc seperti ini 
+Konfigurasi IP Address server dan pc seperti ini. 
 
 ![cisco-dns-2](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-2.png)
 
@@ -50,12 +50,12 @@ Konfigurasi IP Address server dan pc seperti ini
 ![cisco-dns-5](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-5.png)
 
 {: .box-note}
-Berikan DNS untuk server dan masing-masing PC
+Berikan DNS untuk server dan masing-masing PC.
 
 ![cisco-dns-6](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-6.png)
 
 {: .box-note}
-Tes dengan ping semua domain pada masing-masing PC
+Tes dengan ping semua domain pada masing-masing PC.
 
 ![cisco-dns-7](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-7.png)
 
