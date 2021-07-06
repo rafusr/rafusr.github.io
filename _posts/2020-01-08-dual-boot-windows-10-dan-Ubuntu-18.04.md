@@ -13,11 +13,11 @@ Dual boot adalah istilah dimana satu komputer dapat terpasang 2 sistem operasi y
 
 ## Kelebihan dari dual booting
 
-1. Ketika salah satu sistem operasi terkendala masalah, maka sistem operasi yang lainnya lagi dapat memperbaiki masalah tersebut.
+- Ketika salah satu sistem operasi terkendala masalah, maka sistem operasi yang lainnya lagi dapat memperbaiki masalah tersebut.
 
-2. Mengurangi biaya hardware. Jadi gaperlu beli 1 PC hanya untuk 1 sistem operasi. karena 1 PC tersebut dapat menjalankan lebih dari 1 OS.
+- Mengurangi biaya hardware. Jadi gaperlu beli 1 PC hanya untuk 1 sistem operasi. karena 1 PC tersebut dapat menjalankan lebih dari 1 OS.
 
-3. Kompatibilitas software. Ada 1 software yang dapat berjalan baik di Linux, tapi buruk di Windows, tapi lebih baik di Mac OS. begitu sebaliknya. Nah dengan dual booting, Anda dapat lebih mudah dalam mengakses software ini dalam 1 jenis komputer. sekali lagi, mengurangi biaya hardware.
+- Kompatibilitas software. Ada 1 software yang dapat berjalan baik di Linux, tapi buruk di Windows, tapi lebih baik di Mac OS. begitu sebaliknya. Nah dengan dual booting, Anda dapat lebih mudah dalam mengakses software ini dalam 1 jenis komputer. sekali lagi, mengurangi biaya hardware.
 
 ## Langkah-langkah dual boot Windows 10 dan Ubuntu 18.04
 
@@ -41,29 +41,29 @@ Pilih bahasa, lalu klik continue
 ![dual-boot-3](/assets/img/dual-boot-windows-10-dan-Ubuntu-18.04/dual-boot-3.png)
 
 {% highlight javascript linenos %}
-Pilih seperti ini, lalu klik continue
+Pilih instalasi normal atau minimal, dan centang install third-party software
 {% endhighlight %}
 
 ![dual-boot-4](/assets/img/dual-boot-windows-10-dan-Ubuntu-18.04/dual-boot-4.png)
 
 {% highlight javascript linenos %}
-Pilih **Something else**, lalu klik continue
+Pilih Something else, lalu klik continue
 {% endhighlight %}
 
 ![dual-boot-5](/assets/img/dual-boot-windows-10-dan-Ubuntu-18.04/dual-boot-5.png)
 
 {% highlight javascript linenos %}
 Lalu pilih partisi yang telah dikosongkan tadi > tekan icon +
-untuk partisi home berikan 30gb (atau lebih)
-untuk swap area, jika pc anda memiliki ram 4gb sebaiknya berikan 2x lipatnya 8gb (atau lebih)
-untuk partisi root berikan sisa dari partisi kosong yang telah dibagi tadi
-lalu klik install now
+Untuk partisi home berikan 30gb (atau sesuai selera)
+Untuk swap area, jika pc anda memiliki ram 4gb sebaiknya berikan 2x lipatnya yaitu 8gb (atau lebih)
+Untuk partisi root berikan sisa dari partisi kosong yang telah dibagi tadi
+Lalu klik install now
 {% endhighlight %}
 
 ![dual-boot-6](/assets/img/dual-boot-windows-10-dan-Ubuntu-18.04/dual-boot-6.png)
 
 {% highlight javascript linenos %}
-selanjutnya pilih zona waktu Jakarta
+Selanjutnya pilih zona waktu Jakarta (jika anda berada di zona waktu Jakarta)
 Akan muncul perintah untuk restart
 Setelah restart akan muncul perintah untuk mencabut flash drive, cabut flash drive lalu tekan enter
 Pada menu boot manager pilih ubuntu
