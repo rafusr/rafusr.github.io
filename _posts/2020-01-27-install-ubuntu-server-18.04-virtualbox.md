@@ -14,8 +14,8 @@ Pada Ubuntu Server tidak disediakan Graphical User Interface (GUI). Hal itu bera
 
 ## Install Ubuntu Server
 
-Download file [ISO Ubuntu Server](https://ubuntu.com/download/server)
-Siapkan file Ubuntu pada VirtualBox, lalu ikuti langkah di bawah ini
+Download file [ISO Ubuntu Server](https://ubuntu.com/download/server)  
+Siapkan file Ubuntu pada VirtualBox, lalu ikuti langkah di bawah ini.
 
 {: .box-note}
 Klik new > ubuntu
@@ -54,8 +54,8 @@ Klik start, lalu pilih bahasa dan konfigurasi keyboard
 ![install-ubuntu-12](/assets/img/install-ubuntu-server-18.04-virtualbox/install-ubuntu-12.png)
 
 {: .box-note}
-Pilih Manual pada menu partisi
-Masukkan 2GB untuk swap dan sisanya untuk root (/)
+Pilih Manual pada menu partisi  
+Masukkan 2GB untuk swap dan sisanya untuk root (/)  
 Lalu klik Done
 
 ![install-ubuntu-13](/assets/img/install-ubuntu-server-18.04-virtualbox/install-ubuntu-13.png)
@@ -72,7 +72,7 @@ Masukkan nama dan password
 ![install-ubuntu-17](/assets/img/install-ubuntu-server-18.04-virtualbox/install-ubuntu-17.png)
 
 {: .box-note}
-Hilangkan centang pada Install OpenSSH Server
+Hilangkan centang pada Install OpenSSH Server  
 Lalu klik Done
 
 ![install-ubuntu-18](/assets/img/install-ubuntu-server-18.04-virtualbox/install-ubuntu-18.png)
