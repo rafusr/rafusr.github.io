@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/konfigurasi-dhcp-server-wired-dan-wireless-cisco-packet-tracer/cisco.png
 share-img: /assets/img/konfigurasi-dhcp-server-wired-dan-wireless-cisco-packet-tracer/cisco.png
-tags: [dhcp, cisco]
+tags: [dhcp, server, cisco]
 comments: true
 ---
 
