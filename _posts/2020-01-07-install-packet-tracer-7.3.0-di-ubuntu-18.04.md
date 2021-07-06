@@ -26,20 +26,15 @@ Pilih Resource > Download Packet Tracer
 
 ![install-cisco-2](/assets/img/install-packet-tracer-7.3.0-di-ubuntu-18.04/install-cisco-2.png)
 
-~~~
 Pilih linux desktop 64 bit
-~~~
 
 ![install-cisco-3](/assets/img/install-packet-tracer-7.3.0-di-ubuntu-18.04/install-cisco-3.png)
 
-~~~
 Tunggu hingga download selesai > install
-~~~
 
 ![install-cisco-4](/assets/img/install-packet-tracer-7.3.0-di-ubuntu-18.04/install-cisco-4.png)
 
-~~~
+{: .box-note}
 Packet Tracer siap digunakan
-~~~
 
 ![install-cisco-5](/assets/img/install-packet-tracer-7.3.0-di-ubuntu-18.04/install-cisco-5.png)
