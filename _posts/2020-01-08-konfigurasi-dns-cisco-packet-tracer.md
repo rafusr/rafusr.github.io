@@ -9,8 +9,6 @@ tags: [dns, cisco]
 comments: true
 ---
 
-## Mengenal Apa Itu DNS
-
 Domain Name System (DNS) adalah sebuah sistem yang menyimpan informasi tentang nama host ataupun nama domain dalam bentuk database,
 DNS menyediakan alamat IP untuk setiap nama host dan mendata setiap server transmisi yang menerima surel (email) untuk setiap domain.
 
@@ -33,7 +31,7 @@ Jika tidak ada, maka server akan menghubungi root name server untuk mengetahui I
 2. Ketikkan domain lalu enter
 3. Disitu akan ada informasi tentang domain tsb.
 
-## Langkah-langkah konfigurasi DNS
+## Konfigurasi DNS
 {% highlight javascript linenos %}
 Siapkan 1 buah server, 1 buah switch, dan  buah komputer
 {% endhighlight %}
