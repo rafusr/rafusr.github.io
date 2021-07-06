@@ -14,7 +14,8 @@ Packet Tracer adalah alat simulasi visual lintas platform yang dirancang oleh Ci
 ## Cara Download dan Install
 
 ~~~
-Masuk ke situs netacad (https://www.netacad.com/), lalu login (jika belum mempunyai akun, anda bisa membuatnya terlebih dahulu).
+Masuk ke situs netacad (https://www.netacad.com/), 
+lalu login (jika belum mempunyai akun, anda bisa membuatnya terlebih dahulu)
 ~~~
 
 ![install-cisco-1](/assets/img/install-packet-tracer-7.3.0-di-ubuntu-18.04/install-cisco-1.png)
