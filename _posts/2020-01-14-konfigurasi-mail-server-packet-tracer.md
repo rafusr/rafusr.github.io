@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/konfigurasi-mail-server-packet-tracer/cisco.png
 share-img: /assets/img/konfigurasi-mail-server-packet-tracer/cisco.png
-tags: [mail, cisco]
+tags: [mail, server, cisco]
 comments: true
 ---
 
@@ -43,15 +43,14 @@ Masukkan IP Address dan DNS pada server.
 ![cisco-mail-2](/assets/img/konfigurasi-mail-server-packet-tracer/cisco-mail-2.png)
 
 {: .box-note}
-Siapkan email untuk 3 komputer. Klik **Services** > **EMAIL**  
+Siapkan email untuk 3 komputer. Klik **Services** > **EMAIL**.  
 Lalu masukkan domain, user, dan password > klik **+** untuk menambahkan.  
 Lakukan 3 kali dengan user yang berbeda untuk memberikan email pada 3 komputer.
-{% endhighlight %}
 
 ![cisco-mail-3](/assets/img/konfigurasi-mail-server-packet-tracer/cisco-mail-3.png)
 
 {: .box-note}
-Sekarang berikan IP Address untuk semua komputer
+Sekarang berikan IP Address untuk semua komputer.
 
 ![cisco-mail-4](/assets/img/konfigurasi-mail-server-packet-tracer/cisco-mail-4.png)
 
