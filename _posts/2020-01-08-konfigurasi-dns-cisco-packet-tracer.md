@@ -32,8 +32,9 @@ Jika tidak ada, maka server akan menghubungi root name server untuk mengetahui I
 
 ## Langkah-langkah konfigurasi DNS
 
+
 ~~~
 Siapkan 1 buah server, 1 buah switch, dan  buah komputer
 ~~~
 
-/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-1.png
+![cisco-dns-1](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-1.png)
