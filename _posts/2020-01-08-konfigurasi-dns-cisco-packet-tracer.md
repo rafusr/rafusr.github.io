@@ -33,15 +33,15 @@ Jika tidak ada, maka server akan menghubungi root name server untuk mengetahui I
 
 ## Langkah-langkah konfigurasi DNS
 
-~~~
+{% highlight javascript linenos %}
 Siapkan 1 buah server, 1 buah switch, dan  buah komputer
-~~~
+{% endhighlight %}
 
 ![cisco-dns-1](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-1.png)
 
-~~~
+{% highlight javascript linenos %}
 Konfigurasi IP Address server dan pc seperti ini seperti ini
-~~~
+{% endhighlight %}
 
 ![cisco-dns-2](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-2.png)
 
@@ -51,15 +51,15 @@ Konfigurasi IP Address server dan pc seperti ini seperti ini
 
 ![cisco-dns-5](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-5.png)
 
-~~~
+{% highlight javascript linenos %}
 Berikan DNS untuk server dan masing-masing PC
-~~~
+{% endhighlight %}
 
 ![cisco-dns-6](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-6.png)
 
-~~~
+{% highlight javascript linenos %}
 Tes dengan ping semua domain pada masing-masing PC
-~~~
+{% endhighlight %}
 
 ![cisco-dns-7](/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-7.png)
 
