@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco.png
 share-img: /assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco.png
-tags: [web server, cisco]
+tags: [web, server, cisco]
 comments: true
 ---
 
@@ -15,7 +15,7 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 
 Web Server memiliki peran dalam memproses berbagai data yang diminta oleh klien (web browser). Kemudian ia memberikan hasil atau jawaban berupa dokumen, video, foto, atau beragam bentuk berkas lainnya.
 
-Beberapa bagian fungsi dari web server:
+### Beberapa bagian fungsi dari web server:
 
 - Membersihkan berbagai cache yang terdapat pada penyimpanan serta semua dokumen yang tidak terpakai lagi.
 - Melakukan pemeriksaan terhadap sistem security yang berasal dari permintaan HTTP berdasarkan request klien atau web browser.
@@ -30,27 +30,25 @@ Beberapa bagian fungsi dari web server:
 
 ## Konfigurasi Web Server
 
-{% highlight javascript linenos %}
-Siapkan 1 server, 1 switch, dan 3 pc
-{% endhighlight %}
+{: .box-note}
+Siapkan 1 server, 1 switch, dan 3 pc.
 
 ![cisco-web-1](/assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco-web-1.png)
 
-{% highlight javascript linenos %}
-Setting IP Address dan DNS pada server
-{% endhighlight %}
+{: .box-note}
+Setting IP Address dan DNS pada server.
 
 ![cisco-web-2](/assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco-web-2.png)
 
-{% highlight javascript linenos %}
-Tambahkan DNS pada server dengan klik service > DNS > DNS Service : On > Name : (diisi dengan domain) > Address : (diisi dengan IP DNS pada server) > klik "Add"
-{% endhighlight %}
+{: .box-note}
+Tambahkan DNS pada server dengan klik **Service** > **DNS** > **DNS Service : On**  
+Isi **Name** : (diisi dengan domain) dan **Address** : (diisi dengan IP DNS pada server)  
+Lalu klik **Add**.
 
 ![cisco-web-3](/assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco-web-3.png)
 
-{% highlight javascript linenos %}
-Berikan IP pada ketiga PC
-{% endhighlight %}
+{: .box-note}
+Berikan IP pada ketiga PC.
 
 ![cisco-web-4](/assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco-web-4.png)
 
@@ -58,9 +56,8 @@ Berikan IP pada ketiga PC
 
 ![cisco-web-6](/assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco-web-6.png)
 
-{% highlight javascript linenos %}
-Tes dengan masuk ke web browser pada salah satu PC
-{% endhighlight %}
+{: .box-note}
+Tes dengan masuk ke web browser pada salah satu PC.
 
 ![cisco-web-7](/assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco-web-7.png)
 
