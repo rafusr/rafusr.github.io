@@ -2,7 +2,7 @@
 layout: post
 title: Konfigurasi DNS - Cisco Packet Tracer
 subtitle: 
-cover-img: 
+cover-img: /assets/img/konfigurasi-dns-cisco-packet-tracer/cover-dns-cisco.jpg
 thumbnail-img: /assets/img/konfigurasi-dns-cisco-packet-tracer/cisco.png
 share-img: /assets/img/konfigurasi-dns-cisco-packet-tracer/cisco.png
 tags: [dns, cisco]
@@ -29,3 +29,11 @@ Jika tidak ada, maka server akan menghubungi root name server untuk mengetahui I
 1. Masuk ke situs who.is
 2. Ketikkan domain lalu enter
 3. Disitu akan ada informasi tentang domain tsb.
+
+## Langkah-langkah konfigurasi DNS
+
+~~~
+Siapkan 1 buah server, 1 buah switch, dan  buah komputer
+~~~
+
+/assets/img/konfigurasi-dns-cisco-packet-tracer/cisco-dns-1.png
