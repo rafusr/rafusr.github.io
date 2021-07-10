@@ -16,7 +16,7 @@ Pada Ubuntu Server tidak disediakan Graphical User Interface (GUI). Hal itu bera
 ## Konfigurasi IP Address Ubuntu Server 18.04
 
 {: .box-note}
-Masuk ke VirtualBox, lalu tambahkan network baru pada menu **File** > **Host Network Manager** `(ctrl+h)`.
+Masuk ke VirtualBox, lalu tambahkan network baru pada menu **File** > **Host Network Manager** (ctrl+h).
 
 ![ip-ubuntu-1](/assets/img/konfigurasi-ip-address-ubuntu-server-18.04-virtualbox/ip-ubuntu-1.png)
 
