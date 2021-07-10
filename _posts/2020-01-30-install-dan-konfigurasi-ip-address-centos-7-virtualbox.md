@@ -81,6 +81,8 @@ Tunggu hingga proses selesai, setelah itu klik **Reboot**.
 
 ![install-centos-18](install-dan-konfigurasi-ip-address-centos-7-virtualbox/install-centos-18.png)
 
+  
+
 ## Konfigurasi IP Address pada CentOS 7
 
 {: .box-note}
