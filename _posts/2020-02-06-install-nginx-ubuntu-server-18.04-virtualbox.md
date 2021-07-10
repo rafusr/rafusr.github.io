@@ -17,19 +17,19 @@ Selain menawarkan kemampuan server HTTP, NGINX juga dapat beroperasi sebagai ser
 {: .box-note}
 Login sebagai **super user**, lalu ketikkan `apt install nginx`, lalu ikuti instruksinya.
 
-[nginx-ubuntu-1](/assets/img/install-nginx-ubuntu-server-18.04-virtualbox/nginx-ubuntu-1.png)
+![nginx-ubuntu-1](/assets/img/install-nginx-ubuntu-server-18.04-virtualbox/nginx-ubuntu-1.png)
 
 {: .box-note}
 Setelah install selesai, anda dapat mengecek status nginx dengan mengetikkan `systemctl status nginx`.
 
-[nginx-ubuntu-2](/assets/img/install-nginx-ubuntu-server-18.04-virtualbox/nginx-ubuntu-2.png)
+![nginx-ubuntu-2](/assets/img/install-nginx-ubuntu-server-18.04-virtualbox/nginx-ubuntu-2.png)
 
 {: .box-note}
 Anda bisa membuka pada browser anda dan ketikkan ip ubuntu.
 
-[nginx-ubuntu-3](/assets/img/install-nginx-ubuntu-server-18.04-virtualbox/nginx-ubuntu-3.png)
+![nginx-ubuntu-3](/assets/img/install-nginx-ubuntu-server-18.04-virtualbox/nginx-ubuntu-3.png)
 
 {: .box-note}
 Anda juga bisa mengedit teks pada web dengan mengedit `nano /var/www/html/index.nginx-debian.html`.
 
-[nginx-ubuntu-4](/assets/img/install-nginx-ubuntu-server-18.04-virtualbox/nginx-ubuntu-4.png)
+![nginx-ubuntu-4](/assets/img/install-nginx-ubuntu-server-18.04-virtualbox/nginx-ubuntu-4.png)
