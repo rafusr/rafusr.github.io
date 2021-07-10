@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/install-dan-konfigurasi-mikrotik-virtualbox/mikrotik.png
 share-img: /assets/img/install-dan-konfigurasi-mikrotik-virtualbox/mikrotik.png
-tags: [isntall, mikrotik, virtualbox]
+tags: [install, mikrotik, virtualbox]
 comments: true
 ---
 
