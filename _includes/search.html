@@ -6,7 +6,10 @@
   <input type="text" id="nav-search-input" placeholder="Search">
   <ul id="search-results-container"></ul>
   
-  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  [//]: # (<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>)
+  
+  <script src="https://unpkg.com/jekyll-search-js@latest/src/search.js"></script>
+  
   <script>
     var searchjson = '[ \
       {% for post in site.posts %} \
