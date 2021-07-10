@@ -1,6 +1,6 @@
 ---
 layout: post
-title: install-nginx-centos-7-virtualbox
+title: Install NGINX Centos 7 VirtualBox
 subtitle: 
 cover-img: 
 thumbnail-img: /assets/img/install-nginx-centos-7-virtualbox/nginx.png
