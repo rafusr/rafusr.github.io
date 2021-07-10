@@ -58,7 +58,7 @@ Selanjutnya pilih **INSTALLATION DESTINATION**.
 {: .box-note}
 Atur menjadi otomatis lalu klik **Done**.
 
-![install-centos-12](/assets/img//assets/img/install-dan-konfigurasi-ip-address-centos-7-virtualbox/install-centos-12.png)
+![install-centos-12](/assets/img/install-dan-konfigurasi-ip-address-centos-7-virtualbox/install-centos-12.png)
 
 {: .box-note}
 Setelah selesai, klik **Begin Installation**.
@@ -75,7 +75,7 @@ Selanjutnya atur password dan pengguna.
 {: .box-note}
 Tunggu hingga proses selesai, setelah itu klik **Reboot**.
 
-![install-centos-16](/assets/img//assets/img/install-dan-konfigurasi-ip-address-centos-7-virtualbox/install-centos-16.png)
+![install-centos-16](/assets/img/install-dan-konfigurasi-ip-address-centos-7-virtualbox/install-centos-16.png)
 
 ![install-centos-17](/assets/img/install-dan-konfigurasi-ip-address-centos-7-virtualbox/install-centos-17.png)
 
