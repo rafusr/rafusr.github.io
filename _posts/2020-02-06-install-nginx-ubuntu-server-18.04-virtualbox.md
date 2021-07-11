@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/install-nginx-ubuntu-server-18.04-virtualbox/nginx.png
 share-img: /assets/img/install-nginx-ubuntu-server-18.04-virtualbox/nginx.png
-tags: [install, nginx, ubuntu, server, virtualbox]
+tags: [tutorial, install, nginx, ubuntu, server, virtualbox]
 comments: true
 ---
 
