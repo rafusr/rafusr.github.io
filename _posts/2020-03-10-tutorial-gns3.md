@@ -51,7 +51,7 @@ Buat topologi menggunakan 2 router, 2 ethernet switch, dan 2 vpcs.
 {: .box-note}
 Tambahkan kabel.
 
-![tutorial-gns3-7](/assets/img/tutorial-gns3/tutorial-gns3-7.png){: .mx-auto.d-block :}
+![tutorial-gns3-7](/assets/img/tutorial-gns3/tutorial-gns3-7.png)
 
 ![tutorial-gns3-8](/assets/img/tutorial-gns3/tutorial-gns3-8.png)
 
