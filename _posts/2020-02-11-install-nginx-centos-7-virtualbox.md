@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/install-nginx-centos-7-virtualbox/nginx.png
 share-img: /assets/img/install-nginx-centos-7-virtualbox/nginx.png
-tags: [install, nginx, centos, virtualbox]
+tags: [tutorial, install, nginx, centos, virtualbox]
 comments: true
 ---
 
