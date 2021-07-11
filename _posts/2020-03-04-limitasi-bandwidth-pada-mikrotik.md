@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/limitasi-bandwidth-pada-mikrotik/mikrotik.png
 share-img: /assets/img/limitasi-bandwidth-pada-mikrotik/mikrotik.png
-tags: [bandwidth, mikrotik, virtualbox]
+tags: [tutorial, bandwidth, mikrotik, virtualbox]
 comments: true
 ---
 
