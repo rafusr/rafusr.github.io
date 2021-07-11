@@ -3,8 +3,8 @@ layout: post
 title: Install dan Konfigurasi DNS Debian 10
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/install-dan-konfigurasi-dns-debian-10/debian.jpeg
-share-img: /assets/img/install-dan-konfigurasi-dns-debian-10/debian.jpeg
+thumbnail-img: /assets/img/install-dan-konfigurasi-dns-debian-10/bind9.png
+share-img: /assets/img/install-dan-konfigurasi-dns-debian-10/bind9.png
 tags: [install, dns, debian]
 comments: true
 ---
