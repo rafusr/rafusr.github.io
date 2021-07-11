@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/install-packet-tracer-7.3.0-di-ubuntu-18.04/cisco.png
 share-img: /assets/img/install-packet-tracer-7.3.0-di-ubuntu-18.04/cisco.png
-tags: [install, cisco, ubuntu]
+tags: [tutorial, install, cisco, ubuntu]
 comments: true
 ---
 
