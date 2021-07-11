@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/install-dan-konfigurasi-ip-address-centos-7-virtualbox/cent_7.png
 share-img: /assets/img/install-dan-konfigurasi-ip-address-centos-7-virtualbox/cent_7.png
-tags: [install, centos, virtualbox]
+tags: [tutorial, install, centos, virtualbox]
 comments: true
 ---
 
