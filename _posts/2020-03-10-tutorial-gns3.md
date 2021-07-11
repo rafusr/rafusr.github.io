@@ -63,7 +63,7 @@ Klik **start** lalu tunggu hingga semua kabel berwarna hijau.
 ![tutorial-gns3-9](/assets/img/tutorial-gns3/tutorial-gns3-9.png)
 
 {: .box-note}
-Selanjutnya pilih router r1 lalu klik kanan > pilih **idle pc** lalu pilih yang terdapat icon *****.
+Selanjutnya pilih router r1 lalu klik kanan > pilih **idle pc** lalu pilih yang terdapat icon *.
 
 ![tutorial-gns3-10](/assets/img/tutorial-gns3/tutorial-gns3-10.png)
 
