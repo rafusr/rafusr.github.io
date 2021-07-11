@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/dual-boot-windows-10-dan-Ubuntu-18.04/windows10xubuntu.png
 share-img: /assets/img/dual-boot-windows-10-dan-Ubuntu-18.04/windows10xubuntu.png
-tags: [install, ubuntu, windows]
+tags: [tutorial, install, ubuntu, windows]
 comments: true
 ---
 
