@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/konfigurasi-mail-server-packet-tracer/cisco.png
 share-img: /assets/img/konfigurasi-mail-server-packet-tracer/cisco.png
-tags: [mail, server, cisco]
+tags: [tutorial, mail, server, cisco]
 comments: true
 ---
 
