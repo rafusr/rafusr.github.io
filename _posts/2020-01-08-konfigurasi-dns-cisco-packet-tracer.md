@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/konfigurasi-dns-cisco-packet-tracer/cisco.png
 share-img: /assets/img/konfigurasi-dns-cisco-packet-tracer/cisco.png
-tags: [dns, cisco]
+tags: [tutorial, dns, cisco]
 comments: true
 ---
 
