@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/konfigurasi-bridge-mikrotik-virtualbox/mikrotik.png
 share-img: /assets/img/konfigurasi-bridge-mikrotik-virtualbox/mikrotik.png
-tags: [bridge, mikrotik, virtualbox]
+tags: [tutorial, bridge, mikrotik, virtualbox]
 comments: true
 ---
 
