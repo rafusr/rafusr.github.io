@@ -292,10 +292,10 @@ Untuk mengeceknya coba masuk melalui telnet pada client.
 ### Enkripsi Password
 
 {: .box-note}
-Terdapat beberapa level password pada cisco.
-Level 0 : Aktual (tidak dienkripsi)
-Level 5 : MD5
-Level 7 : Cisco
+Terdapat beberapa level password pada cisco.  
+Level 0 : Aktual (tidak dienkripsi)  
+Level 5 : MD5  
+Level 7 : Cisco  
 
 ![tutorial-cisco-58](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-58.png)
 
