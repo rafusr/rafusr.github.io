@@ -153,18 +153,153 @@ Jika sudah, coba lagi ping dari pc ke server.
 
 ![tutorial-cisco-34](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-34.png)
 
+### Mode Command Router dan Switch
 
+{: .box-note}
+**Mode user**,
+mode ini merupakan mode dasar yang akan muncul ketika membuka cli pada router ataupun switch. Untuk melihat command lainnya anda bisa mengetikkan `?` pada mode tersebut.
 
+![tutorial-cisco-35](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-35.png)
 
+{: .box-note}
+**Mode privilege**,
+dimode ini, anda dapat memverifikasi, konfigurasi, penyimpanan, dll. Anda juga harus menggunakan mode ini untuk memasuki mode selanjutnya (global). Untuk melihat command lainnya anda bisa mengetikkan `?` pada mode tersebut.
 
+![tutorial-cisco-36](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-36.png)
 
+{: .box-note}
+**Mode global**,
+Mode ini digunakan untuk melakukan konfigurasi pada router/switch. Untuk melihat command lainnya anda bisa mengetikkan `?` pada mode tersebut.
 
+![tutorial-cisco-37](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-37.png)
 
+{: .box-note}
+**Mode Context**,
+Sebenarnya mode ini hampir sama dengan mode global, hanya saja lebih spesifik. Untuk melihat command lainnya anda bisa mengetikkan `?` pada mode tersebut.
 
+![tutorial-cisco-38](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-38.png)
 
+### Reset Konfigurasi Router
 
+{: .box-note}
+Untuk mereset konfigurasi pada router anda dapat menggunakan command `erase startup-config`, setelah itu ketikkan `reload`.
 
+![tutorial-cisco-39](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-39.png)
 
+### Hostname
 
+{: .box-note}
+Setelah mereset router, pada menu ini pilih **no**.
 
+![tutorial-cisco-40](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-40.png)
 
+{: .box-note}
+Untuk mengubah **hostname** router, anda harus masuk terlebih dahulu ke **mode global** lalu ketikkan `hostname (nama hostname)`.
+
+![tutorial-cisco-41](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-41.png)
+
+### Enable Password dan Enable Secret
+
+{: .box-note}
+Untuk memberikan password pada **mode privilege**, anda bisa mengetikkan command `enable password (password anda)`.
+
+![tutorial-cisco-42](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-42.png)
+
+{: .box-note}
+Untuk mengetesnya anda dapat kembali ke mode user lalu masuk lagi ke mode privilege.
+
+![tutorial-cisco-43](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-43.png)
+
+{: .box-note}
+Untuk mengunci **mode privilege** menggunakan **secret**, anda bisa mengetikkan `enable secret (password anda)`.
+
+![tutorial-cisco-44](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-44.png)
+
+{: .box-note}
+Lalu coba tes dengan **relog** pada **mode privilege**, di sini anda sudah tidak dapat menggunakan password biasa, yang digunakan sebagai password adalah **secret**.
+
+![tutorial-cisco-45](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-45.png)
+
+### Line Console
+
+{: .box-note}
+Anda bisa memberikan password pada **console**, agar client perlu mengetahui password untuk bisa konfigurasi melalui **console**. Anda bisa mengikuti command pada gambar di bawah ini.
+
+![tutorial-cisco-46](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-46.png)
+
+{: .box-note}
+Setelah itu coba konfigurasi router melalui client. Masuk ke menu **Desktop** > **Terminal** lalu klik **ok**.
+
+![tutorial-cisco-47](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-47.png)
+
+### Interface Setting
+
+{: .box-note}
+Anda bisa konfigurasi ulang IP Address pada masing masing port yang terhubung pada router.
+
+![tutorial-cisco-48](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-48.png)
+
+{: .box-note}
+Anda juga bisa memberikan deskripsi pada masing masing port.
+
+![tutorial-cisco-49](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-49.png)
+
+{: .box-note}
+Anda bisa mengetikkan `do show run` lalu scroll dengan klik enter sampai anda melihat konfigurasi ip pada masing masing port beserta deskripsinya.
+
+![tutorial-cisco-50](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-50.png)
+
+### Telnet
+
+{: .box-note}
+Untuk melakukan remote management anda dapat menggunakan **telnet**.  
+**Line vty** adalah virtual interface untuk melakukan remote via network.
+
+![tutorial-cisco-51](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-51.png)
+
+{: .box-note}
+Coba akses telnet melalui client, masuk ke tab **Desktop** > **Command prompt** lalu ketikkan `telnet (IP Address router)`.
+
+![tutorial-cisco-52](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-52.png)
+
+### SSH
+
+{: .box-note}
+Selain menggunakan **telnet**, anda juga bisa menggunakan **SSH** sebagai remote via network.
+
+![tutorial-cisco-53](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-53.png)
+
+![tutorial-cisco-54](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-54.png)
+
+{: .box-note}
+Selanjutnya coba masuk menggunakan **SSH** dari client dengan mengetikkan `ssh -l (username) (ip router)` lalu masukkan password tadi.
+
+![tutorial-cisco-55](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-55.png)
+
+### Banner
+
+{: .box-note}
+**Banner** di sini berfungsi sebagai peringatan ketika ada yang mengakses perangkat.
+
+![tutorial-cisco-56](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-56.png)
+
+{: .box-note}
+**Authorized users only. Access prohibited** adalah peringatan yang akan dimunculkan, anda bisa menggantinya dengan yang lain.  
+Untuk mengeceknya coba masuk melalui telnet pada client.
+
+![tutorial-cisco-57](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-57.png)
+
+### Enkripsi Password
+
+{: .box-note}
+Terdapat beberapa level password pada cisco.  a
+- Level 0 : Aktual (tidak dienkripsi)
+- Level 5 : MD5
+- Level 7 : Cisco
+
+![tutorial-cisco-58](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-58.png)
+
+{: .box-note}
+Anda juga bisa mengubah password **aktual** menjadi **enkripsi**, ketikkan `Service password-encryption` lalu cek lagi apakah password tadi telah dienkripsi.
+
+![tutorial-cisco-59](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-59.png)
