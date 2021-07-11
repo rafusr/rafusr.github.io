@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco.png
 share-img: /assets/img/konfigurasi-web-server-cisco-packet-tracer/cisco.png
-tags: [web, server, cisco]
+tags: [tutorial, web, server, cisco]
 comments: true
 ---
 
