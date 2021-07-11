@@ -99,51 +99,47 @@ Selanjutnya berikan ip juga pada kedua router, anda bisa melakukannya melalui **
 ![tutorial-cisco-21](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-21.png)
 
 {: .box-note}
-Anda pun bisa mengkonfigurasi router dan switch menggunakan **console**.
+Anda pun bisa mengkonfigurasi router dan switch menggunakan **console**.  
+Masukkan **port 232** pada pc dan **port console** pada router/switch untuk konfigurasi router/switch melalui pc, selanjutnya masuk ke **Desktop** > **Terminal** lalu klik ok.
 
 ![tutorial-cisco-22](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-22.png)
 
-{: .box-note}
-Masukkan **port 232** pada pc dan **port console** pada router/switch untuk konfigurasi router/switch melalui pc, selanjutnya masuk ke **Desktop** > **Terminal** lalu klik ok.
-
 ![tutorial-cisco-23](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-23.png)
-
-![tutorial-cisco-24](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-24.png)
 
 ### Penyimpanan Konfigurasi dan Topologi
 
 {: .box-note}
 Untuk melakukan penyimpanan konfigurasi, anda dapat melakukannya melalui router dan switch, anda bisa mengikuti command pada gambar berikut.
 
-![tutorial-cisco-25](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-25.png)
+![tutorial-cisco-24](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-24.png)
 
-![tutorial-cisco-26](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-26.png)
+![tutorial-cisco-25](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-25.png)
 
 {: .box-note}
 Ketikkan `reload` lalu **enter** pada keduanya.
 
-![tutorial-cisco-27](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-27.png)
+![tutorial-cisco-26](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-26.png)
 
-![tutorial-cisco-28](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-28.png)
+![tutorial-cisco-27](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-27.png)
 
 {: .box-note}
 Saat warna arah panah masih orange, anda dapat mempercepatnya menggunakan fitur **fast forward time** (ctrl + d) dengan icon **>>**.
 
-![tutorial-cisco-29](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-29.png)
+![tutorial-cisco-28](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-28.png)
 
 {: .box-note}
 Ketikkan `show ip interface brief` untuk melihat apakah konfigurasi masih tetap.
 
-![tutorial-cisco-30](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-30.png)
+![tutorial-cisco-29](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-29.png)
 
-![tutorial-cisco-31](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-31.png)
+![tutorial-cisco-30](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-30.png)
 
 ### Pengetesan Clien-Server Mode Realtime dan Simulation
 
 {: .box-note}
 Cobalah ping dari pc ke server, apakah gagal? anda dapat menemukan sumber permasalahannya melalui mode **simulation** di sebelah mode **realtime**.
 
-![tutorial-cisco-32](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-32.png)
+![tutorial-cisco-31](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-31.png)
 
 {: .box-note}
 Anda harus menghubungkan kedua router tersebut agar pc dapat terhubung juga pada server.  
@@ -151,11 +147,11 @@ Buka **Router**, konfigurasi routing statis melalui cli, anda bisa mengetikkan c
 `ip route (ip address tujuan) (netmask) (port yang digunakan router. ex:g0/1 atau berbentuk ip)`
 Jika sudah, coba lagi ping dari pc ke server.
 
+![tutorial-cisco-32](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-32.png)
+
 ![tutorial-cisco-33](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-33.png)
 
 ![tutorial-cisco-34](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-34.png)
-
-![tutorial-cisco-35](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-35.png)
 
 
 
