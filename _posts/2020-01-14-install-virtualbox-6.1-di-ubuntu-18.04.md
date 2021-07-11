@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/install-virtualbox-6.1-di-ubuntu-18.04/virtualbox.jpg
 share-img: /assets/img/install-virtualbox-6.1-di-ubuntu-18.04/virtualbox.png
-tags: [tutorial, install, virtual box, ubuntu]
+tags: [tutorial, install, virtualbox, ubuntu]
 comments: true
 ---
 
