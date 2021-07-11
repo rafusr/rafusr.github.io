@@ -144,7 +144,7 @@ Cobalah ping dari pc ke server, apakah gagal? anda dapat menemukan sumber permas
 {: .box-note}
 Anda harus menghubungkan kedua router tersebut agar pc dapat terhubung juga pada server.  
 Buka **Router**, konfigurasi routing statis melalui cli, anda bisa mengetikkan command berikut.  
-`ip route (ip address tujuan) (netmask) (port yang digunakan router. ex:g0/1 atau berbentuk ip)`
+`ip route (ip address tujuan) (netmask) (port yang digunakan router. ex:g0/1 atau berbentuk ip)`  
 Jika sudah, coba lagi ping dari pc ke server.
 
 ![tutorial-cisco-32](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-32.png)
