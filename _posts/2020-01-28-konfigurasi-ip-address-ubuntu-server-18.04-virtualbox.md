@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/konfigurasi-ip-address-ubuntu-server-18.04-virtualbox/ubuntu.png
 share-img: /assets/img/konfigurasi-ip-address-ubuntu-server-18.04-virtualbox/ubuntu.png
-tags: [virtual box, ubuntu, server]
+tags: [tutorial, virtualbox, ubuntu, server]
 comments: true
 ---
 
