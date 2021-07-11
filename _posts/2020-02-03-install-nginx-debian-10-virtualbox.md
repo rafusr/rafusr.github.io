@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/install-nginx-debian-10-virtualbox/nginx.png
 share-img: /assets/img/install-nginx-debian-10-virtualbox/nginx.png
-tags: [install, nginx, debian, virtualbox]
+tags: [tutorial, install, nginx, debian, virtualbox]
 comments: true
 ---
 
