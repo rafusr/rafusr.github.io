@@ -19,3 +19,25 @@ Di pakcet tracer terdapat 2 jenis **workspace**, **Logical** yang berisi topolog
 ![tutorial-cisco-1](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-1.png)
 
 ### Menu pada Packet Tracer
+
+![tutorial-cisco-2](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-2.png)
+
+![tutorial-cisco-3](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-3.png)
+
+### Membuat topologi sederhana di Packet Tracer
+
+{: .box-note}
+Di sini saya menggunakan 2 Router 1941, 2 Switch 2960, 1 PC, dan 1 Server.  
+Seperti yang dilihat, perangkat PC dan Server disebut **end device**, sedangkan router dan switch disebut **intermedia device**.
+
+![tutorial-cisco-4](/assets/img/tutorial-cisco-packet-tracer/tutorial-cisco-4.png)
+
+### Optimalisasi Packet Tracer
+
+{: .box-note}
+Masuk ke menu **Option** > **Preference** (ctrl + r).
+
+
+
+
+
