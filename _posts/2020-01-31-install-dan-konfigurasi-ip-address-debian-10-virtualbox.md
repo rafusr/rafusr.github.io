@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/install-dan-konfigurasi-ip-address-debian-10-virtualbox/debian.jpeg
 share-img: /assets/img/install-dan-konfigurasi-ip-address-debian-10-virtualbox/debian.jpeg
-tags: [install, debian, virtualbox]
+tags: [tutorial, install, debian, virtualbox]
 comments: true
 ---
 
