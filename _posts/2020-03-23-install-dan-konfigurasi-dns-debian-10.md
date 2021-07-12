@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/install-dan-konfigurasi-dns-debian-10/bind9.png
 share-img: /assets/img/install-dan-konfigurasi-dns-debian-10/bind9.png
-tags: [install, dns, debian]
+tags: [tutorial, install, dns, debian]
 comments: true
 ---
 
