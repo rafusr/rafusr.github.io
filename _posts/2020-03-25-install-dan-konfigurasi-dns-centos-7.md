@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/install-dan-konfigurasi-dns-centos-7/bind9.png
 share-img: /assets/img/install-dan-konfigurasi-dns-centos-7/bind9.png
-tags: [install, dns, centos]
+tags: [tutorial, install, dns, centos]
 comments: true
 ---
 
